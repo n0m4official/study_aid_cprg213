@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--<link rel="stylesheet" href="styles.css">-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            Index
+        </title>
+    </head>
+    <body>
+        <h1 style="justify-self: center;">
+            Welcome to CPRG-213
+        </h1>
+    <!--<h2>
+            Header 2
+        </h2>
+        <h3>
+            Header 3
+        </h3>
+        <h4>
+            Header 4
+        </h4>
+        <h5>
+            Header 5
+        </h5>
+        <h6>
+            Header 6
+        </h6>
+        <p>
+            Paragraph
+        </p>-->
+        <!--Horizontal Ruler-->
+        <!--Attributes-->
+        <!--
+        1. Absolute unit of measurement: px (Not always needed to be written)
+        2. Relative unit of measurement: % (MUST be written to prevent defaulting to px)
+        -->
+        <hr color="black" width="100%" size="2px"/> 
+        
+    </body>
+</html>
